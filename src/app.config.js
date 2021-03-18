@@ -5,6 +5,6 @@
  */
 class AppConfig {
     version = '1.0.1';
-    team = 'Fantastic 4s';
+    team = 'Fantastic 4s -F1 Change';
 }
 module.exports = AppConfig;
